@@ -1,0 +1,53 @@
+just quickly copied from the console...
+
+Linear Regression:
+Fold 0: r2=0.28, mse=153.34, rmse=12.38, mae=10.546163
+Fold 1: r2=0.53, mse=99.63, rmse=9.98, mae=7.735486
+Fold 2: r2=0.28, mse=214.21, rmse=14.64, mae=12.306059
+Fold 3: r2=0.25, mse=143.46, rmse=11.98, mae=9.071661
+Fold 4: r2=0.22, mse=92.65, rmse=9.63, mae=7.926478
+
+Linear Regression: Mean and standard deviation across folds:
+R-squared: M=0.31; SD=0.11
+Mean Squared Error: M=140.66; SD=43.74
+Root Mean Squared: M=11.72; SD=1.81
+Mean Absolute Error: M=9.52; SD=1.72
+
+Ridge Regression:
+Fold 0: r2=0.24, mse=162.20, rmse=12.74, mae=10.820667
+Fold 1: r2=0.52, mse=102.95, rmse=10.15, mae=8.388455
+Fold 2: r2=0.35, mse=191.41, rmse=13.84, mae=11.771381
+Fold 3: r2=0.35, mse=123.51, rmse=11.11, mae=8.445665
+Fold 4: r2=0.38, mse=73.84, rmse=8.59, mae=6.781374
+
+Ridge Regression: Mean and standard deviation across folds:
+R-squared: M=0.37; SD=0.09
+Mean Squared Error: M=130.78; SD=41.79
+Root Mean Squared: M=11.28; SD=1.85
+Mean Absolute Error: M=9.24; SD=1.81
+
+Lasso Regression:
+Fold 0: r2=0.18, mse=173.66, rmse=13.18, mae=11.233987
+Fold 1: r2=0.46, mse=114.73, rmse=10.71, mae=8.756697
+Fold 2: r2=0.37, mse=186.47, rmse=13.66, mae=11.443700
+Fold 3: r2=0.38, mse=117.64, rmse=10.85, mae=8.433680
+Fold 4: r2=0.38, mse=73.45, rmse=8.57, mae=6.738595
+
+Lasso Regression: Mean and standard deviation across folds:
+R-squared: M=0.36; SD=0.09
+Mean Squared Error: M=133.19; SD=41.54
+Root Mean Squared: M=11.39; SD=1.85
+Mean Absolute Error: M=9.32; SD=1.79
+
+Random Forest:
+Fold 0: r2=0.46, mse=113.71, rmse=10.66, mae=8.678594
+Fold 1: r2=0.67, mse=70.08, rmse=8.37, mae=6.382800
+Fold 2: r2=0.40, mse=178.98, rmse=13.38, mae=11.510654
+Fold 3: r2=0.26, mse=142.17, rmse=11.92, mae=9.956959
+Fold 4: r2=0.00, mse=118.65, rmse=10.89, mae=8.781451
+
+Random Forest: Mean and standard deviation across folds:
+R-squared: M=0.36; SD=0.22
+Mean Squared Error: M=124.72; SD=35.75
+Root Mean Squared: M=11.05; SD=1.65
+Mean Absolute Error: M=9.06; SD=1.69

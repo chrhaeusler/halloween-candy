@@ -1,0 +1,100 @@
+Cluster: 1
+                             Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel  mehrere  Zuckerrank  Preisrank    Gewinn%
+Reese's Peanut Butter cup             1         0         0       1       0         0     0       0        0       0.720      0.651  84.180290
+Reese's Miniatures                    1         0         0       1       0         0     0       0        0       0.034      0.279  81.866257
+Reese's pieces                        1         0         0       1       0         0     0       0        1       0.406      0.651  73.434990
+Reese's stuffed with pieces           1         0         0       1       0         0     0       0        0       0.988      0.651  72.887901
+Peanut butter M&M's                   1         0         0       1       0         0     0       0        1       0.825      0.651  71.465050
+Nestle Butterfinger                   1         0         0       1       0         0     0       1        0       0.604      0.767  70.735641
+Peanut M&Ms                           1         0         0       1       0         0     0       0        1       0.593      0.651  69.483788
+Mr Good Bar                           1         0         0       1       0         0     0       1        0       0.313      0.918  54.526451
+Almond Joy                            1         0         0       1       0         0     0       1        0       0.465      0.767  50.347546
+Payday                                0         0         0       1       1         0     0       1        0       0.465      0.767  46.296597
+Boston Baked Beans                    0         0         0       1       0         0     0       0        1       0.313      0.511  23.417824
+
+
+
+Cluster: 2
+                          Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel  mehrere  Zuckerrank  Preisrank    Gewinn%
+Twix                               1         0         1       0       0         1     0       1        0       0.546      0.906  81.642914
+Kit Kat                            1         0         0       0       0         1     0       1        0       0.313      0.511  76.768600
+Snickers                           1         0         1       1       1         0     0       1        0       0.546      0.651  76.673782
+Milky Way                          1         0         1       0       1         0     0       1        0       0.604      0.651  73.099556
+3 Musketeers                       1         0         0       0       1         0     0       1        0       0.604      0.511  67.602936
+100 Grand                          1         0         1       0       0         1     0       1        0       0.732      0.860  66.971725
+M&M's                              1         0         0       0       0         0     0       0        1       0.825      0.651  66.574585
+Nestle Crunch                      1         0         0       0       0         1     0       1        0       0.313      0.767  66.470680
+Rolo                               1         0         1       0       0         0     0       0        1       0.860      0.860  65.716286
+Milky Way Simply Caramel           1         0         1       0       0         0     0       1        0       0.965      0.860  64.353340
+Hershey's Krackel                  1         0         0       0       0         1     0       1        0       0.430      0.918  62.284481
+Milky Way Midnight                 1         0         1       0       1         0     0       1        0       0.732      0.441  60.800701
+Snickers Crisper                   1         0         1       1       0         1     0       1        0       0.604      0.651  59.529251
+Hershey's Special Dark             1         0         0       0       0         0     0       1        0       0.430      0.918  59.236122
+Junior Mints                       1         0         0       0       0         0     0       0        1       0.197      0.511  57.219250
+Baby Ruth                          1         0         1       1       1         0     0       1        0       0.604      0.767  56.914547
+Hershey's Milk Chocolate           1         0         0       0       0         0     0       1        0       0.430      0.918  56.490501
+Hershey's Kisses                   1         0         0       0       0         0     0       0        1       0.127      0.093  55.375454
+Milk Duds                          1         0         1       0       0         0     0       0        1       0.302      0.511  55.064072
+Tootsie Roll Snack Bars            1         0         0       0       0         0     0       1        0       0.465      0.325  49.653503
+Whoppers                           1         0         0       0       0         1     0       0        1       0.872      0.848  49.524113
+Mounds                             1         0         0       0       0         0     0       1        0       0.313      0.860  47.829754
+Tootsie Roll Midgies               1         0         0       0       0         0     0       0        1       0.174      0.011  45.736748
+Tootsie Roll Juniors               1         0         0       0       0         0     0       0        0       0.313      0.511  43.068897
+Charleston Chew                    1         0         0       0       1         0     0       1        0       0.604      0.511  38.975037
+Nestle Smarties                    1         0         0       0       0         0     0       0        1       0.267      0.976  37.887188
+Sixlets                            1         0         0       0       0         0     0       0        1       0.220      0.081  34.722000
+
+
+
+Cluster: 4
+                             Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel  mehrere  Zuckerrank  Preisrank    Gewinn%
+Starburst                             0         1         0       0       0         0     0       0        1       0.151      0.220  67.037628
+Skittles original                     0         1         0       0       0         0     0       0        1       0.941      0.220  63.085140
+Sour Patch Kids                       0         1         0       0       0         0     0       0        1       0.069      0.116  59.863998
+Haribo Gold Bears                     0         1         0       0       0         0     0       0        1       0.465      0.465  57.119740
+Nerds                                 0         1         0       0       0         0     1       0        1       0.848      0.325  55.354046
+Skittles wildberry                    0         1         0       0       0         0     0       0        1       0.941      0.220  55.103695
+Swedish Fish                          0         1         0       0       0         0     0       0        1       0.604      0.755  54.861111
+Lifesavers big ring gummies           0         1         0       0       0         0     0       0        0       0.267      0.279  52.911392
+Sour Patch Tricksters                 0         1         0       0       0         0     0       0        1       0.069      0.116  52.825947
+Air Heads                             0         1         0       0       0         0     0       0        0       0.906      0.511  52.341465
+Haribo Sour Bears                     0         1         0       0       0         0     0       0        1       0.465      0.465  51.412430
+Tootsie Pop                           1         1         0       0       0         0     1       0        0       0.604      0.325  48.982651
+Trolli Sour Bites                     0         1         0       0       0         0     0       0        1       0.313      0.255  47.173229
+Gobstopper                            0         1         0       0       0         0     1       0        1       0.906      0.453  46.783348
+Mike & Ike                            0         1         0       0       0         0     0       0        1       0.872      0.325  46.411716
+Smarties candy                        0         1         0       0       0         0     1       0        1       0.267      0.116  45.995827
+Twizzlers                             0         1         0       0       0         0     0       0        0       0.220      0.116  45.466282
+Welch's Fruit Snacks                  0         1         0       0       0         0     0       0        1       0.313      0.313  44.375519
+Fruit Chews                           0         1         0       0       0         0     0       0        1       0.127      0.034  43.088924
+Runts                                 0         1         0       0       0         0     1       0        1       0.872      0.279  42.849144
+Dots                                  0         1         0       0       0         0     0       0        1       0.732      0.511  42.272076
+Haribo Twin Snakes                    0         1         0       0       0         0     0       0        1       0.465      0.465  42.178772
+Laffy Taffy                           0         1         0       0       0         0     0       0        0       0.220      0.116  41.389557
+Pop Rocks                             0         1         0       0       0         0     1       0        1       0.604      0.837  41.265511
+Dum Dums                              0         1         0       0       0         0     1       0        0       0.732      0.034  39.460556
+Now & Later                           0         1         0       0       0         0     0       0        1       0.220      0.325  39.446800
+Fun Dip                               0         1         0       0       0         0     1       0        0       0.732      0.325  39.185505
+Lemonhead                             0         1         0       0       0         0     1       0        0       0.046      0.104  39.141056
+Warheads                              0         1         0       0       0         0     1       0        0       0.093      0.116  39.011898
+Candy Corn                            0         0         0       0       0         0     0       0        1       0.906      0.325  38.010963
+Pixie Sticks                          0         0         0       0       0         0     0       0        1       0.093      0.023  37.722336
+Red vines                             0         1         0       0       0         0     0       0        1       0.581      0.116  37.348522
+Chewey Lemonhead Fruit Mix            0         1         0       0       0         0     0       0        1       0.732      0.511  36.017628
+Ring pop                              0         1         0       0       0         0     1       0        0       0.732      0.965  35.290756
+Strawberry bon bons                   0         1         0       0       0         0     1       0        1       0.569      0.058  34.578991
+Haribo Happy Cola                     0         0         0       0       0         0     0       0        1       0.465      0.465  34.158958
+Root Beer Barrels                     0         0         0       0       0         0     1       0        1       0.732      0.069  29.703691
+Jawbusters                            0         1         0       0       0         0     1       0        1       0.093      0.511  28.127439
+Super Bubble                          0         1         0       0       0         0     0       0        0       0.162      0.116  27.303865
+Chiclets                              0         1         0       0       0         0     0       0        1       0.046      0.325  24.524988
+Nik L Nip                             0         1         0       0       0         0     0       0        1       0.197      0.976  22.445341
+
+
+
+Cluster: 3
+                            Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel  mehrere  Zuckerrank  Preisrank    Gewinn%
+Werther's Original Caramel           0         0         1       0       0         0     1       0        0       0.186      0.267  41.904308
+Caramel Apple Pops                   0         1         1       0       0         0     0       0        0       0.604      0.325  34.517681
+Sugar Babies                         0         0         1       0       0         0     0       0        1       0.965      0.767  33.437550
+Sugar Daddy                       

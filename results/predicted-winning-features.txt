@@ -1,0 +1,42 @@
+just quickly copied from the console...
+
+Predictions with top win% of Linear Regression:
+    Prediction Linear Regression  Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel
+15                     79.826838           1         0         1       1       1         1     0       0
+11                     78.778048           1         0         1       1       0         1     0       0
+47                     78.668925           1         0         1       1       1         1     0       1
+43                     77.620136           1         0         1       1       0         1     0       1
+13                     76.174424           1         0         0       1       1         1     0       0
+
+Predictions with top win% of Ridge Regression:
+    Prediction Ridge Regression  Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel
+43                    73.012077           1         0         1       1       0         1     0       1
+47                    72.865854           1         0         1       1       1         1     0       1
+11                    71.972840           1         0         1       1       0         1     0       0
+15                    71.826617           1         0         1       1       1         1     0       0
+41                    70.521187           1         0         0       1       0         1     0       1
+
+Predictions with top win% of Lasso Regression:
+    Prediction Lasso Regression  Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel
+15                    69.458492           1         0         1       1       1         1     0       0
+11                    69.458492           1         0         1       1       0         1     0       0
+43                    69.458492           1         0         1       1       0         1     0       1
+47                    69.458492           1         0         1       1       1         1     0       1
+45                    68.733303           1         0         0       1       1         1     0       1
+
+Predictions with top win% of Random Forest:
+    Prediction Random Forest  Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel
+42                 77.446157           1         0         1       0       0         1     0       1
+58                 77.119554           1         0         1       0       0         1     1       1
+46                 76.002948           1         0         1       0       1         1     0       1
+62                 75.676345           1         0         1       0       1         1     1       1
+1                  75.380912           1         0         0       1       0         0     0       0
+
+Mean of top 3 combinations of features per algorithm, mean across algos, and binarized final results:
+                              Schokolade  fruchtig  Karamell  nussig  Nougat  knusprig  hart  Riegel
+Prediction Linear Regression         1.0       0.0       1.0    1.00    0.67       1.0  0.00    0.33
+Prediction Ridge Regression          1.0       0.0       1.0    1.00    0.33       1.0  0.00    0.67
+Prediction Lasso Regression          1.0       0.0       1.0    1.00    0.33       1.0  0.00    0.33
+Prediction Random Forest             1.0       0.0       1.0    0.00    0.33       1.0  0.33    1.00
+Mean                                 1.0       0.0       1.0    0.75    0.42       1.0  0.08    0.58
+Binarized                            1.0       0.0       1.0    1.00    0.00       1.0  0.00    1.00
