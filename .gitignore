@@ -1,0 +1,5 @@
+# vim swap files
+*.sw?
+
+# exclude pictures of stimuli
+data/pics
