@@ -6,8 +6,7 @@ For a description of the dataset, s. [here](https://fivethirtyeight.com/videos/t
 
 ### Folders:
 - **`./`**: contains the scripts
-- **`data`**: raw data; including a record of the taken survey and pictures of
-presented candies over the course of the survey.
+- **`data`**: raw data; including a record of the taken survey.
 - **`results`**: figures (mostly not pretty but they do their job) and (text-based)
 results of the modeling procedure.
 
